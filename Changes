@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+    - list Test2::Suite in testing requirements
+
 0.001     2016-01-26 12:52:36-08:00 America/Los_Angeles
 
     - Initial Version
